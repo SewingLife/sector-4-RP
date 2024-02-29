@@ -80,9 +80,9 @@ ALLOW_AI
 NORESPAWN
 
 # Server Name
-SERVERNAME Goonstation
+SERVERNAME Sector 4
 #SERVERSUFFIX
-SERVERREGION Development
+SERVERREGION Episode 3
 
 CDN https://cdn-main1.goonhub.com
 RSC https://cdn-main1.goonhub.com/rsc.zip
