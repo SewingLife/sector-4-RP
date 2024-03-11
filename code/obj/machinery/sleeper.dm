@@ -777,3 +777,8 @@ TYPEINFO(/obj/machinery/sleeper/port_a_medbay)
 		if (our_console)
 			our_console.Attackhand(user)
 			interact_particle(user,src)
+
+/obj/machinery/sleeper/genevieve
+	name = "faulty sleeper"
+	icon = 'icons/obj/gsleeper.dmi'
+	desc = "Somebody's been inside it for too long."
